@@ -1,0 +1,41 @@
+.whole{
+    background-color: lightblue;
+
+}
+.center{
+    font-family: sans-serif;
+    font-weight: 700;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    border:5px solid black;
+    padding: 5px;
+    font-size: 20px;
+}
+.para{
+    font-family: sans-serif;
+    font-weight: 900;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+    padding: 5px;
+}
+.incre{
+    background-color:red;
+    color: aliceblue;
+    font-weight: 900;
+    border-color: red;
+    padding:20px;
+    font-size: 15px;
+    border-radius:20px;
+    
+}
+.button{
+    text-align: center;
+}
+#c{
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+}
